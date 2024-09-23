@@ -1,22 +1,46 @@
-# Public Issues Repository
+# Taostats Public Issue Tracker
 
-Welcome to the **Public Issues** repository for tracking bugs, feature requests, and API-related issues.
+Welcome to the **Taostats Public Issue Tracker**! This repository is a centralized place for tracking issues, feature requests, and improvements related to the Taostats project, including the **website**, **API**, **app**, **staking**, and more.
 
-## How to Submit an Issue:
+## About Taostats
+Taostats is a comprehensive platform providing blockchain analytics, API services, staking functionalities, and more for the Bittensor ecosystem. This repository is here to enhance transparency and collaboration with users and developers.
 
-When submitting an issue, please provide the following details to help us troubleshoot effectively:
+## Project Components
+This repository covers all aspects of the Taostats platform, including:
 
-1. **Endpoint/Feature**: Describe the specific API endpoint or feature where you encountered the issue.
-2. **Parameters**: List all parameters you passed, including the full curl request if possible.
-3. **Expected Behavior**: Explain what you expected to happen.
-4. **Actual Behavior**: Describe what actually happened, including any errors or incorrect behavior.
-5. **Additional Information**: Provide any other relevant information, such as environment details (browser, OS, etc.).
+- **Website**: User-facing site where you can explore blockchain data, monitor stats, and more.
+- **API**: Backend API providing blockchain data, transaction details, and staking information.
+- **App**: The mobile and desktop application for managing your Taostats account, staking, and transactions.
+- **Staking**: Tools and interfaces to stake tokens, view rewards, and manage staking activity.
 
-### Example Submission:
+## How to Use This Repository
+You can use this repository to:
 
-```plaintext
-- **Endpoint**: /api/v1/endpoint
-- **Parameters**: { "param1": "value1", "param2": "value2" }
-- **Expected Behavior**: I expected to receive XYZ.
-- **Actual Behavior**: I received ABC instead, with error message: "error detail".
-- **Additional Info**: Tested on Chrome, macOS.
+- **Report Bugs**: Encountered an issue? Let us know by submitting a bug report.
+- **Request Features**: Have an idea for a new feature? Submit your suggestions for the team to review.
+- **Track Issues**: Stay updated on known issues and their progress.
+
+## Submitting Issues
+To submit an issue (bug, feature request, or improvement), please follow the provided templates:
+
+- **Bug Reports**: Clearly describe the issue you're facing, including the endpoint or component involved, the expected result, and the actual behavior.
+- **Feature Requests**: Provide a description of the feature you'd like to see, explaining how it improves the platform.
+- **General Inquiries**: For general questions or clarification, feel free to open an issue with the relevant label.
+
+## Issue Templates
+When submitting an issue, use the following templates:
+
+- **Bug Report Template**
+- **Feature Request Template**
+
+Make sure to fill out all the necessary fields to help us better understand and resolve the problem.
+
+## Contribution Guidelines
+We welcome contributions from the community. Please follow these steps when submitting pull requests:
+
+1. **Fork the Repository**: Make your changes in your forked repository.
+2. **Create a Pull Request**: Open a pull request against this repository with a detailed description of the changes made.
+3. **Wait for Review**: Our team will review your pull request and provide feedback.
+
+## Support
+For any other inquiries, please contact us via **https://discord.taostats.io**.
