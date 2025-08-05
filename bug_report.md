@@ -19,7 +19,7 @@ The USD reward value on the coldkey page (https://taostats.io/coldkey/5EPHTGQwwx
 The USD reward value should be calculated using the subnet token price, not the TAO price.
 
 **Screenshots**
-./screenshot/Screenshot.png
+![Screenshot](./screenshot/Screenshot.png)
 
 **Environment:**
 - Browser: [e.g. Chrome]
